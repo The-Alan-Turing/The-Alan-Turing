@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.daily.dev/The-Alan-Turing"><img src="https://api.daily.dev/devcards/5fc74be80f9941d181ae667067e8b54b.png?r=n8f" width="400" alt="AlanT's Dev Card"/></a>
+<a href="https://app.daily.dev/The-Alan-Turing"><img src="https://github.com/The-Alan-Turing/The-Alan-Turing/blob/master/devcard.svg" width="400" alt="AlanT's Dev Card"/></a>
