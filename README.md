@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alant" alt="alant" /></a> </p>
 
-- 🌱 I’m currently learning **Next JS 13**
+- 🌱 I’m currently building a **Chrome Extension**
 
 - 💬 Ask me about **.NET, JS, TS, React, Python, Gaming**
 
